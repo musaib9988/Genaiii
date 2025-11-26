@@ -1,0 +1,7 @@
+{
+  "name": "Musaib Fusion Studio",
+  "description": "A multimodal creation studio featuring Veo for image-to-video generation and Gemini Live for real-time voice conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
